@@ -1,0 +1,37 @@
+{
+  "name": "com-phonegap-bossbolo-plugin-statusbar",
+  "version": "1.0.0",
+  "description": "系统状态栏设置，基于org.apache.cordova.statusbar做了一些样式变更",
+  "cordova": {
+    "id": "com-phonegap-bossbolo-plugin-statusbar",
+    "platforms": [
+      "android",
+      "ios",
+      "wp7",
+      "wp8",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apache/cordova-plugin-statusbar"
+  },
+  "keywords": [
+    "cordova",
+    "statusbar",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-wp7",
+    "cordova-wp8",
+    "cordova-windows"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache 2.0"
+}
