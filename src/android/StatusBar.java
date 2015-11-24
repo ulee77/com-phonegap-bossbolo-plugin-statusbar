@@ -17,7 +17,7 @@
  * under the License.
  *
 */
-package org.apache.cordova.statusbar;
+package com.phonegap.bossbolo.plugin.statusbar;
 
 import android.app.Activity;
 import android.graphics.Color;
